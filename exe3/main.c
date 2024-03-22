@@ -1,7 +1,7 @@
 #include <FreeRTOS.h>
-#include <task.h>
-#include <semphr.h>
 #include <queue.h>
+#include <semphr.h>
+#include <task.h>
 
 #include "pico/stdlib.h"
 #include <stdio.h>
